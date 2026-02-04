@@ -17,7 +17,7 @@ O objetivo é educar o mercado, qualificar empresas interessadas e direcionar os
 
 ---
 
-## 👥 Público-Alvo
+##  Público-Alvo
 
 - Empresas (PJ), principalmente:
   - Pequenas e médias empresas
