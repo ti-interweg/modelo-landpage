@@ -1,6 +1,6 @@
 #  Landing Page — Cyber Segurança | InterWeg
 
-Landing page institucional para captação de leads interessados em **Seguro de Cyber Segurança** da InterWeg Seguros.
+Landing page institucional para captação de leads interessados nos produtos da InterWeg Seguros.
 
 O objetivo é educar o mercado, qualificar empresas interessadas e direcionar os contatos para atendimento automatizado (bot / WhatsApp / CRM).
 
